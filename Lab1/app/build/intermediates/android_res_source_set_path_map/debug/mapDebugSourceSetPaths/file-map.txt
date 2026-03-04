@@ -1,0 +1,37 @@
+com.example.myapplication.app-ui-release-0 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\109b058e05d797ddc5293be16414ca95\workspace\transformed\ui-release\res
+com.example.myapplication.app-ui-test-manifest-1.9.2-1 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\11b9faa58509d3812f02e726f13df69c\workspace\transformed\ui-test-manifest-1.9.2\res
+com.example.myapplication.app-material-ripple-release-2 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\18afa13d1e48a8d47ab7ed1943ab21e0\workspace\transformed\material-ripple-release\res
+com.example.myapplication.app-lifecycle-livedata-core-2.10.0-3 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\21df1884c1e5feb031ee1ba8e88e69a5\workspace\transformed\lifecycle-livedata-core-2.10.0\res
+com.example.myapplication.app-activity-1.12.4-4 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\27063db26125fe71168233029d255cd8\workspace\transformed\activity-1.12.4\res
+com.example.myapplication.app-lifecycle-process-2.10.0-5 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\2dca2c78ff4220fc07ace906898ce946\workspace\transformed\lifecycle-process-2.10.0\res
+com.example.myapplication.app-core-runtime-2.2.0-6 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\2f3bd994772f3c5650a36278d098398a\workspace\transformed\core-runtime-2.2.0\res
+com.example.myapplication.app-activity-ktx-1.12.4-7 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\3e49a1bc12ce51af3dd6b39f7d6950d3\workspace\transformed\activity-ktx-1.12.4\res
+com.example.myapplication.app-ui-graphics-release-8 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\41fa9d833f66fc62638919a10886119f\workspace\transformed\ui-graphics-release\res
+com.example.myapplication.app-activity-compose-1.12.4-9 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\4517537c207bb1bf76de274b903dcb6a\workspace\transformed\activity-compose-1.12.4\res
+com.example.myapplication.app-core-viewtree-1.0.0-10 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\4c336235b05d29efa4ed1fa86cb7d096\workspace\transformed\core-viewtree-1.0.0\res
+com.example.myapplication.app-material3-release-11 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\5744c9c284aa39beae2faf1272b0ec78\workspace\transformed\material3-release\res
+com.example.myapplication.app-foundation-release-12 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\5f926010b3d367de0411ca277c45f80e\workspace\transformed\foundation-release\res
+com.example.myapplication.app-core-1.17.0-13 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\64e48e1c63b011ca1ee6303c22e236f7\workspace\transformed\core-1.17.0\res
+com.example.myapplication.app-lifecycle-viewmodel-14 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\689f6d5c3a2923bbed99b4e33382739d\workspace\transformed\lifecycle-viewmodel\res
+com.example.myapplication.app-customview-poolingcontainer-1.0.0-15 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\6bd7a90a7a99c9c80eb5cf5f26cdbb58\workspace\transformed\customview-poolingcontainer-1.0.0\res
+com.example.myapplication.app-material-release-16 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\6ea046741bdf80a25381c4da772c8dbb\workspace\transformed\material-release\res
+com.example.myapplication.app-profileinstaller-1.4.0-17 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\700589f4e472058ad1bd35ecd7e41ff1\workspace\transformed\profileinstaller-1.4.0\res
+com.example.myapplication.app-graphics-path-1.0.1-18 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\78ee5bf3feb1c44d7dd339a50d6c17b1\workspace\transformed\graphics-path-1.0.1\res
+com.example.myapplication.app-material-icons-core-release-19 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\85bf820ea8d8a9b4485aee842c7f4be9\workspace\transformed\material-icons-core-release\res
+com.example.myapplication.app-annotation-experimental-1.4.1-20 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\8bfe6200726f38d56e1e75696488bbe4\workspace\transformed\annotation-experimental-1.4.1\res
+com.example.myapplication.app-emoji2-1.4.0-21 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\949a8862926bb7c743a9c7829bb6dd23\workspace\transformed\emoji2-1.4.0\res
+com.example.myapplication.app-tracing-1.2.0-22 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\ae2d2a1a67d96d1d12ca60c99f5d0a50\workspace\transformed\tracing-1.2.0\res
+com.example.myapplication.app-navigationevent-23 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\b68755298a3061f5a1874fbc47275cf1\workspace\transformed\navigationevent\res
+com.example.myapplication.app-savedstate-ktx-1.4.0-24 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\c11aced6b3b22c2b3d5f2bd30649ae18\workspace\transformed\savedstate-ktx-1.4.0\res
+com.example.myapplication.app-lifecycle-runtime-25 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\c96663edcf18dcb05ba1c373207a6230\workspace\transformed\lifecycle-runtime\res
+com.example.myapplication.app-lifecycle-viewmodel-ktx-2.10.0-26 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\cde99e6e2c3f52b952ef4b1ce9d85967\workspace\transformed\lifecycle-viewmodel-ktx-2.10.0\res
+com.example.myapplication.app-core-ktx-1.17.0-27 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\cdeb2d3907444c219eaf46e8748c03f5\workspace\transformed\core-ktx-1.17.0\res
+com.example.myapplication.app-savedstate-28 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\d0fbc35f5d43e20d71d8dc31dbba09e8\workspace\transformed\savedstate\res
+com.example.myapplication.app-startup-runtime-1.1.1-29 C:\Users\Aalaa Adel\.gradle\caches\9.1.0\transforms\fcea228fc03d859c32279c3dcb946504\workspace\transformed\startup-runtime-1.1.1\res
+com.example.myapplication.app-pngs-30 E:\ITI Mobile Application\kotlin\android\labs\coroutine\Day2\Lab2\app\build\generated\res\pngs\debug
+com.example.myapplication.app-updated_navigation_xml-31 E:\ITI Mobile Application\kotlin\android\labs\coroutine\Day2\Lab2\app\build\generated\updated_navigation_xml\debug
+com.example.myapplication.app-packageDebugResources-32 E:\ITI Mobile Application\kotlin\android\labs\coroutine\Day2\Lab2\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.myapplication.app-packageDebugResources-33 E:\ITI Mobile Application\kotlin\android\labs\coroutine\Day2\Lab2\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.myapplication.app-debug-34 E:\ITI Mobile Application\kotlin\android\labs\coroutine\Day2\Lab2\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.myapplication.app-debug-35 E:\ITI Mobile Application\kotlin\android\labs\coroutine\Day2\Lab2\app\src\debug\res
+com.example.myapplication.app-main-36 E:\ITI Mobile Application\kotlin\android\labs\coroutine\Day2\Lab2\app\src\main\res
